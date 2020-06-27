@@ -1,1 +1,8 @@
 */csrc/
+*.conf
+*.log
+*.rc
+simv
+simv.*/
+ucli.key
+verdiLog/
