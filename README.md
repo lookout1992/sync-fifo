@@ -4,3 +4,4 @@ code for sync-fifo, the reading time of SARM is delayed 1 cycle.
 
 # 2020/06/27
 调试环境，目前sync-fifo代码并不能跑通，目前仅上传用于测试。
+test
